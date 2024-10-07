@@ -9,8 +9,9 @@ header:
     - label: "Button"
       url: "/sample/"
 excerpt: " "
-intro:
-  - excerpt: ""
+intro: 
+  - name: "Kim Mingyeom"
+  - Department : "AI"
 ---
 
 {% include feature_row id="intro" type="center" %}
