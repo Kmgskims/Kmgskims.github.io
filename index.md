@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-body
+Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
