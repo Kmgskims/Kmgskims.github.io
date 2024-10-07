@@ -9,7 +9,7 @@ header:
     - label: "Button"
       url: "/sample/"
 excerpt: " "
-intro:
+intro: 
   - excerpt: ""
 ---
 
@@ -17,6 +17,7 @@ intro:
 
 ## Title
 
-Body
+name : Kim Mingyeom
+Department: AI
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
