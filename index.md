@@ -17,7 +17,6 @@ intro:
 
 ## Title
 
-name : Kim Mingyeom
-Department: AI
+body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
